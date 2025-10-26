@@ -1,6 +1,5 @@
 # NoPortal - Portal Control for Minecraft
 
-![Java CI with Maven](https://github.com/YOUR-GITHUB-NAME/YOUR-REPO-NAME/actions/workflows/maven.yml/badge.svg) <!-- Optional: Add this if you set up GitHub Actions -->
 
 **NoPortal** is an extremely lightweight and straightforward Paper/Spigot plugin for Minecraft servers that gives administrators full control over whether players can enter the Nether or the End. With a simple command, portals can be dynamically enabled or disabled without requiring a server restart.
 
