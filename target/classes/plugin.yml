@@ -1,0 +1,15 @@
+name: NoPortal
+version: '1.3'
+main: de.swagnation.noPortal.NoPortal
+api-version: '1.21'
+author: FloCrafter
+description: Deaktiviert Nether- und End-Portale per Befehl.
+commands:
+  noportal:
+    description: Aktiviert oder deaktiviert den Zugang zu Nether- oder End-Portalen.
+    usage: "/noportal <nether|end> <true|false>"
+    permission: noportal.admin
+permissions:
+  noportal.admin:
+    description: Erlaubt die Benutzung des /noportal-Befehls.
+    default: op

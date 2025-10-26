@@ -1,0 +1,7 @@
+# Konfiguration für das NoPortal Plugin
+portals:
+  allow-nether: true
+  allow-end: true
+
+messages:
+  block-message: "&cDer Zugang zu dieser Dimension ist deaktiviert!"

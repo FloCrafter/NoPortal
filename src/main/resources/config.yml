@@ -1,0 +1,11 @@
+# Configuration for the NoPortal plugin
+portals:
+  # Allow players to enter the Nether (true = yes, false = no)
+  allow-nether: true
+  # Allow players to enter the End (true = yes, false = no)
+  allow-end: true
+
+messages:
+  # Message sent to players when a portal is disabled.
+  # Supports color codes using '&'.
+  block-message: "&cAccess to this dimension is disabled!"
