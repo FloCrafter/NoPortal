@@ -16,7 +16,7 @@ Ideal for survival events, hardcore challenges, or servers where access to certa
 
 ## Installation
 
-1.  Download the latest version from the [Releases page]([https://github.com/YOUR-GITHUB-NAME/YOUR-REPO-NAME/releases](https://github.com/FloCrafter/NoPortal/releases/tag/v1.3)).
+1.  Download the latest version from the [Releases page]([https://github.com/FloCrafter/NoPortal/releases/tag/v1.3]).
 2.  Place the downloaded `.jar` file into your server's `plugins` folder.
 3.  Restart or reload your server.
 4.  Done! The plugin is now active.
